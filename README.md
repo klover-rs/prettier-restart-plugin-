@@ -3,7 +3,9 @@ Well, this is my first enmity plugin, it’s not a very useful plugin, it’s ba
 
 # requirements
 Node.js (https://nodejs.org/en/download)
+
 a node compatible IDE of your choice (e.g Visual Studio Code)
+
 and ofc enmity :D
  
 # build the plugin
