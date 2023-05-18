@@ -1,0 +1,11 @@
+{
+   "name": "Restart",
+   "version": "1.0.0",
+   "description": "A command which can restart your client.",
+   "authors": [
+      {
+         "name": "Amaya",
+         "id": "629214478902231041"
+      }
+   ]
+}
