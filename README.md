@@ -12,6 +12,7 @@ and ofc enmity :D
 use these commands in a terminal (be sure to cd to the path of the project)
 
 npm i
+
 npm run build
 
 now there should be a folder called "dist", in this folder is the plugin.\
